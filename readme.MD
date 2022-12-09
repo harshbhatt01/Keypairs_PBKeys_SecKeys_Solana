@@ -1,10 +1,9 @@
-<h1>Working with Keypairs in Solana</h1>
-<h2>Instructions</h2>
-<code>$ npm install</code>
-<h2>Generating a Keypair  (Private Key)</h2>
-<h2>Keypair from bytes</h2>
-<h2>Keypair from base 58 string</h2>
-<h2>Encoding and Decoding with Base 58</h2>
-<h2>VERIFY A KEYPAIR</h2>
-<h2>Conversions from Seed to Uint8Array to Base 58 String</h2>
-<h2>Learn if the private key living on ed25519 Elliptic Curve</h2>
+<h1> Keypairs.ts</h1>
+if you want to generate a  new keypair uncomment the lines of generating keypair and generate the new keypair
+if you want to generate public key and privatekey(Secretkey) copy and paste your keypair and run the code
+
+<h1> Keypairs.ts</h1>
+if you want to generate keypair from secretkey paste your secret key and run the code
+
+to run ts file -> npx tsc filename.tsc (it will generate the js file)
+now run the command -> node filename.js
